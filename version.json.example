@@ -1,0 +1,6 @@
+{
+  "version": "1.0.1",
+  "notes": "Auto-update release — EXE self-replace",
+  "download_url": "https://YOUR_BUCKET.s3.amazonaws.com/security-scanner/releases/SecurityHeaderScannerGUI.exe",
+  "mandatory": false
+}

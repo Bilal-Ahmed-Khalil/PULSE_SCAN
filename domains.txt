@@ -1,0 +1,71 @@
+# ============================================================
+# xPal Infrastructure – Security Header Scan Targets
+# One domain/URL per line. Lines starting with # are ignored.
+# ============================================================
+
+# --- Production Backend (xpaldev.com) ---
+xt.xpaldev.com
+xtk.xpaldev.com
+appii.xpaldev.com
+upload.xpaldev.com
+mntdv.xpaldev.com
+mnt.xpaldev.com
+chnapi.xpaldev.com
+link.xpaldev.com
+xtgc.xpaldev.com
+us-central1-xpaldev.cloudfunctions.net
+xpaldev-default-rtdb.firebaseio.com
+
+# --- Mirror / APK Fallback Clusters ---
+xt.1o5-8iosl8os.com
+xtc.1o5-8iosl8os.com
+xlc.1o5-8iosl8os.com
+xapi.1o5-8iosl8os.com
+xapii.1o5-8iosl8os.com
+channel.1o5-8iosl8os.com
+xt.mes-rus-09.com
+xtc.mes-rus-09.com
+xlc.mes-rus-09.com
+xapi.mes-rus-09.com
+upload.mes-rus-09.com
+xt.734a0649-6f36-4983-94fb-f6e103ad9e44.com
+xtc.734a0649-6f36-4983-94fb-f6e103ad9e44.com
+xapi.734a0649-6f36-4983-94fb-f6e103ad9e44.com
+xbeat.734a0649-6f36-4983-94fb-f6e103ad9e44.com
+stgxt.734a0649-6f36-4983-94fb-f6e103ad9e44.com
+stgapi.734a0649-6f36-4983-94fb-f6e103ad9e44.com
+xt.l0s-bl0sib05.com
+upload.l0s-bl0sib05.com
+xt.b1osl5b81-50i.com
+xtc.b1osl5b81-50i.com
+xapi.b1osl5b81-50i.com
+upload.b1osl5b81-50i.com
+
+# --- Main Site / Web Client (xpal.com) ---
+xpal.com
+web.xpal.com
+xpr.xpal.com
+link.xpal.com
+join.xpal.com
+group.xpal.com
+connect.xpal.com
+upload.xpal.com
+stickers.xpal.com
+agt.xpal.com
+
+# --- Mail (XpalMail) ---
+xe.xpalemail.com
+
+# --- Calling / Ensys ---
+ensys.xpal-docker.com
+calling.ensys.xpal-docker.com
+ensys.pp-xpal.com
+calling.ensys.pp-xpal.com
+
+# --- Storage (S3) ---
+transporterxpal.s3.amazonaws.com
+xpalimages.s3.amazonaws.com
+xpal-apk-download.s3.us-east-1.amazonaws.com
+
+# --- Xave ---
+auth.xave.app
